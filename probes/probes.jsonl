@@ -1,0 +1,9 @@
+{"input": "1", "expect": 1, "raised": false, "task": "trinary", "lang": "php"}
+{"input": "2", "expect": 2, "raised": false, "task": "trinary", "lang": "php"}
+{"input": "10", "expect": 3, "raised": false, "task": "trinary", "lang": "php"}
+{"input": "11", "expect": 4, "raised": false, "task": "trinary", "lang": "php"}
+{"input": "100", "expect": 9, "raised": false, "task": "trinary", "lang": "php"}
+{"input": "112", "expect": 14, "raised": false, "task": "trinary", "lang": "php"}
+{"input": "222", "expect": 26, "raised": false, "task": "trinary", "lang": "php"}
+{"input": "1122000120", "expect": 32091, "raised": false, "task": "trinary", "lang": "php"}
+{"input": "13201", "expect": 0, "raised": false, "task": "trinary", "lang": "php"}
